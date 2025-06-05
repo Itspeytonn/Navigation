@@ -24,7 +24,7 @@ struct ContentView: View {
             .navigationTitle("Home")
             .navigationBarTitleDisplayMode(.inline)
             .navigationBarBackButtonHidden(true)
-                }
+                } // this here because i forgot to commit my first change 
 
             
         }
